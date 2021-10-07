@@ -1,0 +1,57 @@
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ArduinoCsharp\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ArduinoCsharp\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ArduinoCsharp\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ArduinoCsharp\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ArduinoCsharp\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ArduinoCsharp\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\TEMP\ArduinoCsharp\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\TEMP\ArduinoCsharp\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\TEMP\ArduinoCsharp\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\TEMP\ArduinoCsharp\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\TEMP\ArduinoCsharp\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\TEMP\ArduinoCsharp\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojAssemblyReference.cache
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp\ConsoleApplication4\obj\Debug\ConsoleApplication4.csproj.CoreCompileInputs.cache
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojAssemblyReference.cache
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2\ConsoleApplication4\obj\Debug\ConsoleApplication4.csproj.CoreCompileInputs.cache
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojAssemblyReference.cache
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc\ConsoleApplication4\obj\Debug\ConsoleApplication4.csproj.CoreCompileInputs.cache
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\swagata\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc2\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc2\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc2\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc2\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc2\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\KEIO\DAY1\ArduinoCsharp2_acc2\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\Lab_Instructions\ToyodaSan_HUH\DataLogging\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\Lab_Instructions\ToyodaSan_HUH\DataLogging\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\Lab_Instructions\ToyodaSan_HUH\DataLogging\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\Lab_Instructions\ToyodaSan_HUH\DataLogging\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\Lab_Instructions\ToyodaSan_HUH\DataLogging\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\ONEDRIVE\OneDrive - Hiroshima University\LABWORK\Lab_Instructions\ToyodaSan_HUH\DataLogging\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
