@@ -1,2 +1,2 @@
 # DataLogging_arduino
-Data Logging through Arduino Serial Port using Visual Studio C++
+Data Logging through Arduino Serial Port using Visual Studio C#
